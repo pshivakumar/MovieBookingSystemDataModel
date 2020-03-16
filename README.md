@@ -8,5 +8,6 @@ Test  Case
 
 Class Diagram
 
-<img src="MovieBookingSystemDataModel/Documentation/MovieBookingSystem_uml.svg?raw=true" />
+![Image](MovieBookingSystemDataModel/Documentation/MovieBookingSystem_uml.svg)
+
 
