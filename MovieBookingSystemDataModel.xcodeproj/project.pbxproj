@@ -57,6 +57,7 @@
 		FAEC8F71241DFF6600FB1652 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		FAEC8F73241E157F00FB1652 /* MovieDataModelProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDataModelProtocols.swift; sourceTree = "<group>"; };
 		FAEC8F76241FACB300FB1652 /* MovieBookingSystem_uml.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = MovieBookingSystem_uml.pdf; sourceTree = "<group>"; };
+		FAEC8F78241FAEFC00FB1652 /* MovieBookingSystem_uml.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = MovieBookingSystem_uml.svg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +140,7 @@
 		FAEC8F75241FAC8700FB1652 /* Documentation */ = {
 			isa = PBXGroup;
 			children = (
+				FAEC8F78241FAEFC00FB1652 /* MovieBookingSystem_uml.svg */,
 				FAEC8F76241FACB300FB1652 /* MovieBookingSystem_uml.pdf */,
 			);
 			path = Documentation;
