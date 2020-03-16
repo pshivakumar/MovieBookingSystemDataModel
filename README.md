@@ -8,5 +8,5 @@ Test  Case
 
 Class Diagram
 
-<img src="MovieBookingSystemDataModel/Documentation/MovieBookingSystem_uml.pdf?raw=true" />
+<img src="MovieBookingSystemDataModel/Documentation/MovieBookingSystem_uml.svg?raw=true" />
 
