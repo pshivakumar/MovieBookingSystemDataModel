@@ -8,4 +8,5 @@ Test  Case
 
 Class Diagram
 
-![alt tag](MovieBookingSystemDataModel/Documentation/MovieBookingSystem_uml.pdf)
+<img src="MovieBookingSystemDataModel/Documentation/MovieBookingSystem_uml.pdf?raw=true" />
+
