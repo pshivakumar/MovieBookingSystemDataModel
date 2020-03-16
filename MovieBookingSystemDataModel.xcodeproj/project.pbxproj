@@ -56,6 +56,7 @@
 		FAEC8F6F241D21C500FB1652 /* Customer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Customer.swift; sourceTree = "<group>"; };
 		FAEC8F71241DFF6600FB1652 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 		FAEC8F73241E157F00FB1652 /* MovieDataModelProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDataModelProtocols.swift; sourceTree = "<group>"; };
+		FAEC8F76241FACB300FB1652 /* MovieBookingSystem_uml.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = MovieBookingSystem_uml.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		FAEC8F3D241D1CA900FB1652 /* MovieBookingSystemDataModel */ = {
 			isa = PBXGroup;
 			children = (
+				FAEC8F75241FAC8700FB1652 /* Documentation */,
 				FAEC8F60241D1CC500FB1652 /* Data Model */,
 				FAEC8F3E241D1CA900FB1652 /* AppDelegate.swift */,
 				FAEC8F40241D1CA900FB1652 /* SceneDelegate.swift */,
@@ -132,6 +134,14 @@
 				FAEC8F73241E157F00FB1652 /* MovieDataModelProtocols.swift */,
 			);
 			path = "Data Model";
+			sourceTree = "<group>";
+		};
+		FAEC8F75241FAC8700FB1652 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				FAEC8F76241FACB300FB1652 /* MovieBookingSystem_uml.pdf */,
+			);
+			path = Documentation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

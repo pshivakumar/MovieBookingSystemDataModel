@@ -33,9 +33,9 @@ class MovieBookingSystemDataModelTests: XCTestCase {
         let hall = Hall()
         hall.shows = [show]
         hall.seats = [seat]
-        hall.movie = movie!
-        
         movie?.halls = [hall]
+        hall.movie = movie!
+
         let ticket = customer.buyTicket(movie?.movieId)
         print(ticket?.first?.ticketId! as Any)
     }
