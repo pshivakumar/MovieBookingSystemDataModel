@@ -2,6 +2,7 @@
 Design a DataModel for a Movie Ticket Booking System
 
 Language: Swift 5.1
+IDE: Xcode
 
 Test  Case
 1) testBookTicket
